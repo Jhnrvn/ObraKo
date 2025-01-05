@@ -1,0 +1,28 @@
+.modal-title {
+  font: bold 2rem var(--roboto);
+}
+
+.modal-text {
+  font: normal 1.7rem var(--roboto) !important;
+}
+
+.confirm-button,
+.cancel-button {
+  width: 80px;
+  height: 30px;
+  font: bold 13px var(--roboto);
+  margin: 15px 5px;
+}
+
+.modal-title {
+  font: bold 3rem var(--roboto);
+}
+
+.popup-radius {
+  border-radius: 0 !important;
+}
+
+.modal-img {
+  width: 120px;
+  aspect-ratio: 1;
+}

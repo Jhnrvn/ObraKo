@@ -1,0 +1,159 @@
+footer {
+  width: 100%;
+  background-color: var(--primary-color);
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+/* ! logo section */
+.logo-footer-section {
+  padding: 50px;
+}
+
+.logo-footer-section img {
+  width: 10vw;
+  margin-bottom: 10px;
+}
+
+.logo-footer-section p {
+  color: white;
+  text-align: justify;
+  font: normal 1.4rem var(--roboto);
+}
+
+/* ! others section */
+.others-footer-section {
+  padding: 50px;
+  text-align: center;
+  color: white;
+  font: normal 1.4rem var(--roboto);
+}
+
+.footer-table {
+  width: 100%;
+  height: 150px;
+}
+
+.footer-table-header .footer-table-header-th {
+  font: bold 1.4rem var(--roboto);
+  color: var(--secondary-color);
+}
+
+.footer-table tbody tr {
+  gap: 10px;
+}
+
+/* ! contacts section */
+.contacts-footer-section {
+  padding: 50px;
+  text-align: center;
+  color: white;
+  font: normal 1.4rem var(--roboto);
+}
+
+.contacts-footer-section h4 {
+  font: bold 1.4rem var(--roboto);
+  color: var(--secondary-color);
+  margin-bottom: 20px;
+}
+
+.contacts-footer-section i {
+  font-size: 30px;
+  color: white;
+  margin: 0 10px;
+}
+
+/* ! last section */
+.last-section {
+  height: 100px;
+  grid-column: span 3;
+  width: 100%;
+  padding: 10px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  place-items: center;
+}
+
+.copyright {
+  font: normal 1.4rem var(--roboto);
+  color: white;
+  text-align: center;
+}
+
+.contact-number {
+  font: normal 1.4rem var(--roboto);
+  color: white;
+  text-align: center;
+}
+
+.contact-number a {
+  font: bold 1.4rem var(--roboto);
+  color: white;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .logo-footer-section {
+    grid-column: span 3;
+    padding: 30px 50px;
+  }
+
+  .logo-footer-section img {
+    width: 30vw;
+    margin-bottom: 10px;
+  }
+
+  .others-footer-section {
+    grid-column: span 3;
+    padding: 20px;
+  }
+
+  .contacts-footer-section {
+    grid-column: span 3;
+    padding: 30px;
+    margin: 0 0 30px;
+  }
+
+  .last-section {
+    grid-column: span 3;
+    padding: 30px;
+    display: flex;
+    flex-direction: column-reverse;
+  }
+
+  .copyright {
+    margin-top: 20px;
+  }
+
+  .contact-number {
+    margin-top: 20px;
+  }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  .logo-footer-section {
+    padding: 50px 20px;
+  }
+  .contacts-footer-section {
+    padding: 30px 0;
+  }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  .logo-footer-section {
+    padding: 50px;
+  }
+
+  .contacts-footer-section {
+    padding: 50px;
+  }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+}

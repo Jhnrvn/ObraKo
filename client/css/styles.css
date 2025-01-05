@@ -1,0 +1,714 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  /*! Colors */
+  --primary-color: #774d33;
+  --secondary-color: #e2c0a9;
+  --tertiary-color: #ad7f73;
+  /*! Fonts */
+  --roboto: "Roboto", sans-serif;
+}
+
+html {
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+  scroll-padding: 150px;
+}
+
+main {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #f5f5f5;
+}
+
+/* ! Navigation */
+
+nav {
+  display: flex;
+  background-color: var(--primary-color);
+  width: 100%;
+  height: 60px;
+  position: sticky;
+  left: 0;
+  top: 0;
+  z-index: 9999;
+}
+.logo-container {
+  width: 20%;
+  display: flex;
+}
+
+.obrako-logo {
+  width: 150px;
+  margin-left: 50px;
+}
+
+.obrako-logo:hover {
+  cursor: pointer;
+}
+
+.nav-links {
+  width: 40%;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-links ul {
+  width: 100%;
+  display: flex;
+  list-style: none;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: white;
+  font: 500 17px var(--roboto);
+  transition: color 0.3s ease;
+}
+
+.notification {
+  position: relative;
+}
+
+.cart-counter {
+  position: absolute;
+  background-color: #dc3546;
+  width: 17px;
+  height: 17px;
+  border-radius: 10px;
+  font: bold 12px var(--roboto);
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  bottom: 15px;
+  right: 12px;
+}
+
+.user-control-container {
+  position: relative;
+}
+
+.nav-links a:hover,
+.user-control-container > i:hover {
+  color: var(--secondary-color);
+  cursor: pointer;
+}
+
+.user-options {
+  width: 40%;
+  padding-right: 50px;
+}
+
+.search-container {
+  width: 100%;
+  height: 60px;
+  display: flex;
+  align-items: center;
+}
+
+#search-bar {
+  width: 80%;
+  height: 30px;
+  border-radius: 3px;
+  font: 400 15px var(--roboto);
+  border: none;
+  outline: none;
+  padding: 0 10px;
+}
+
+#search-bar::placeholder {
+  font: 400 12px var(--roboto);
+}
+
+.user-control-container {
+  width: 100px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-left: 20px;
+}
+
+.user-control-container button {
+  text-decoration: none;
+  color: white;
+  font: 500 25px var(--roboto);
+  transition: color 0.3s ease;
+  border: none;
+  background-color: transparent;
+  outline: none;
+}
+
+.user-control-container > button:hover {
+  color: var(--secondary-color);
+  cursor: pointer;
+}
+
+.shop-now-btn {
+  width: 150px;
+  margin: 0 20px 0 50px;
+  background-color: white;
+  color: black;
+  padding: 6px 0;
+  font: 500 15px var(--roboto);
+  transition: color 0.3s ease, background-color 0.3s ease;
+  border: none;
+}
+.shop-now-btn:hover {
+  background-color: var(--secondary-color) !important;
+}
+
+.user-control-container > i {
+  font-size: 25px;
+  color: white;
+  transition: color 0.3s ease;
+  position: relative;
+}
+
+.user-profile {
+  width: 45px;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  background-color: white;
+  padding: 2px;
+  cursor: pointer;
+}
+
+.dropdown-container {
+  position: absolute;
+  top: 57px;
+  right: 15px;
+  width: 200px;
+  min-height: 0;
+  background-color: white;
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  display: none;
+}
+
+.dropdown-caret {
+  width: 15px;
+  height: 15px;
+  transform: rotate(45deg);
+  right: 15px;
+  top: -8px;
+  border-left: 1px solid rgba(0, 0, 0, 0.8);
+  border-top: 1px solid rgba(0, 0, 0, 0.8);
+  position: absolute;
+  background-color: white;
+  z-index: 9999;
+}
+
+.user-name {
+  width: 100%;
+  min-height: 50px;
+  border-bottom: 2px solid rgba(161, 161, 161, 0.5);
+  padding: 10px;
+}
+
+.dropdown-container button {
+  display: block;
+  width: 100%;
+  color: black;
+  width: 100%;
+  display: flex;
+  padding: 15px;
+  font-size: 1.3rem;
+  background-color: transparent;
+  transition: background-color 0.3s ease;
+}
+
+.logged-in-as-text {
+  font: bold italic 1.2rem var(--roboto);
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.user-name-text {
+  font: bold 1.4rem var(--roboto);
+  text-align: center;
+}
+
+.dropdown-container button {
+  font: bold 1.4rem var(--roboto);
+}
+
+.dropdown-container button i {
+  font-size: 1.7rem;
+  transition: color 0.3s ease;
+  color: var(--primary-color);
+}
+
+.dropdown-container button:hover {
+  background-color: rgb(234, 234, 234);
+  cursor: pointer;
+}
+
+.dropdown-container button:last-child:hover > i {
+  color: red;
+  cursor: pointer;
+}
+
+.dropdown-container i {
+  color: black;
+  font-size: 1.7rem;
+  margin-right: 20px;
+}
+/* ! header Section */
+.carousel-section {
+  width: 100%;
+  min-height: 100%;
+  padding: 50px;
+}
+.carousel-container {
+  width: 100%;
+  min-height: 100%;
+  padding: 100px;
+}
+
+#carouselFade {
+  width: 100%;
+  padding: 0 100px 50px;
+}
+
+.carousel-inner img {
+  object-fit: contain;
+}
+
+.carousel-item img {
+  height: 100%;
+  object-fit: cover;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+}
+
+/* ! Product Categories */
+.product-categories-header {
+  padding: 0 100px;
+}
+
+.product-categories-header h4,
+.products-header h4 {
+  font: bold 2.5rem var(--roboto);
+  margin-bottom: 15px;
+}
+
+.product-categories-container {
+  width: 100%;
+  min-height: 100%;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.product-card {
+  width: 100%;
+  position: relative;
+  border: 1px solid black;
+}
+
+.category-title {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font: bold 2rem var(--roboto);
+  background-color: rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease;
+}
+
+.category-title:hover {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.product-card:hover {
+  cursor: pointer;
+}
+
+.product-card img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+
+}
+
+/* ! Products Section */
+
+.no-results {
+  text-align: center;
+  font: bold 2rem var(--roboto);
+}
+
+.products-section {
+  width: 100%;
+  min-height: 100%;
+  padding: 50px;
+}
+
+.products-header {
+  padding: 0 100px 50px;
+}
+
+.products-container {
+  width: 100%;
+  min-height: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+  gap: 10px;
+  margin: auto;
+}
+
+.available-products-card {
+  width: 100%;
+  min-width: 50px;
+  max-width: 250px;
+  height: 100%;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  position: relative;
+  margin: 0 auto;
+  background-color: white;
+  transition: box-shadow 0.3s ease;
+}
+
+.available-products-card:hover {
+  cursor: pointer;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.product-card-container {
+  width: 100%;
+  padding: 10px;
+}
+
+.product-card-container img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+}
+
+.product-name {
+  font: bold 1.5rem var(--roboto);
+  margin: 20px 0 10px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.product-description {
+  font: italic 1.2rem var(--roboto);
+  margin: 10px 0;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.product-price {
+  font: normal 1.7rem var(--roboto);
+  font-style: italic;
+  margin: 10px 0;
+}
+
+.product-price span {
+  color: rgba(0, 0, 0, 0.5);
+}
+
+#load-more-btn {
+  display: block;
+  width: 150px;
+  height: 35px;
+  margin: 50px auto;
+  border: none;
+  background-color: var(--primary-color);
+  color: white;
+  font: bold 1.5rem var(--roboto);
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+#load-more-btn:hover {
+  background-color: #573723;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .obrako-logo {
+    display: none;
+  }
+
+  .search-container {
+    height: 40px;
+    display: flex;
+    align-items: center;
+  }
+
+  .logo-container {
+    display: none;
+  }
+
+  .user-options {
+    width: 100%;
+    padding: 10px;
+  }
+
+  .nav-links {
+    display: none;
+  }
+  /* ! carousel image */
+  .carousel-section {
+    padding: 10px;
+  }
+
+  #carouselFade {
+    padding: 0 10px 20px;
+  }
+
+  .carousel-inner img {
+    object-fit: contain;
+  }
+
+  .carousel-item img {
+    height: 100%;
+    object-fit: cover;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+  }
+
+  /* ! product category */
+  .product-categories-header {
+    padding: 0 10px;
+  }
+
+  .product-categories-header h4,
+  .products-header h4 {
+    font: bold 1.3rem var(--roboto);
+  }
+
+  .product-categories-container {
+    gap: 10px;
+  }
+  .category-title {
+    font: bold 1.3rem var(--roboto);
+  }
+
+  .category-title:hover {
+    background-color: rgba(0, 0, 0, 0.3);
+  }
+
+  .product-card:hover {
+    cursor: pointer;
+  }
+
+  .product-card img {
+    width: 100%;
+    object-fit: cover;
+  }
+
+  /* ! Products Section */
+  .products-section {
+    width: 100%;
+    min-height: 100%;
+    padding: 20px;
+  }
+
+  .products-header {
+    padding: 0 0 50px;
+  }
+
+  .products-container {
+    width: 100%;
+    min-height: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 10px;
+    margin: auto;
+  }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  /* !navigation */
+  .nav-links {
+    display: none;
+  }
+
+  .obrako-logo {
+    display: none;
+  }
+
+  .search-container {
+    float: right;
+  }
+  .user-options {
+    width: 100%;
+  }
+
+  /* ! product category */
+
+  #carouselFade {
+    padding: 0 20px 20px;
+  }
+
+  .carousel-section {
+    padding: 20px;
+  }
+
+  .product-categories-header {
+    padding: 0 20px;
+  }
+
+  /* ! product container */
+  .products-section {
+    width: 100%;
+    min-height: 100%;
+    padding: 50px 40px;
+  }
+
+  .products-header {
+    padding: 0 0 50px;
+  }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  /* !navigation */
+  .obrako-logo {
+    display: block;
+  }
+
+  .search-container {
+    width: 80%;
+    float: right;
+  }
+
+  .logo-container {
+    width: 20%;
+    display: flex;
+  }
+
+  .user-options {
+    width: 100%;
+  }
+
+  /* ! product category */
+
+  .carousel-section {
+    padding: 20px 0;
+  }
+
+  #carouselFade {
+    padding: 0 100px 50px;
+  }
+
+  .product-categories-header {
+    padding: 0 100px;
+  }
+
+  .product-categories-header h4,
+  .products-header h4 {
+    font: bold 2.5rem var(--roboto);
+    margin-bottom: 15px;
+  }
+
+  .product-categories-container {
+    width: 100%;
+    min-height: 100%;
+    display: flex;
+    gap: 20px;
+  }
+
+  .product-card {
+    position: relative;
+    border: 1px solid black;
+  }
+
+  .category-title {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font: bold 2rem var(--roboto);
+    background-color: rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease;
+  }
+
+  /* ! product container */
+
+  .products-header {
+    padding: 0 50px 50px;
+  }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  /* !navigation */
+  .nav-links {
+    width: 40%;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .search-container {
+    width: 100%;
+    float: right;
+  }
+
+  .user-options {
+    width: 40%;
+    padding-right: 50px;
+  }
+
+  /* ! product category */
+  .carousel-section {
+    padding: 50px;
+  }
+
+  /* ! product container */
+  .products-section {
+    width: 100%;
+    min-height: 100%;
+    padding: 50px;
+  }
+
+  .products-header {
+    padding: 0 100px 50px;
+  }
+
+  .products-container {
+    width: 100%;
+    min-height: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+    gap: 10px;
+    margin: auto;
+  }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  .product-categories-container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    gap: 20px;
+  }
+}

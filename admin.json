@@ -1,0 +1,9 @@
+{
+  "_id": {
+    "$oid": "675507ad4c6d76c01a53e18f"
+  },
+  "name": "admin",
+  "orders": [],
+  "approved": [],
+  "canceled": []
+}

@@ -1,0 +1,1000 @@
+[{
+  "_id": {
+    "$oid": "6753d86e6898eb34bf09b3c0"
+  },
+  "name": "Palanpagan",
+  "origin": "Banaue, Luzon, (Philippines)",
+  "image": "https://i.ibb.co/wWbxtcj/b35df1848443.png",
+  "additionalImages": [
+    "https://i.ibb.co/wWbxtcj/b35df1848443.png",
+    "https://i.ibb.co/pKK18X7/004277aabaad.png",
+    "https://i.ibb.co/GRzY62F/987a53cb6bed.png"
+  ],
+  "price": 3700,
+  "description": "Tribal necklace called Palanpagang. It is a priest collar, always composed of sometimes large, wrought pieces of mother-of-pearl. This necklace has 7 large pieces of mother-of-pearl decorated in various layers of decorations. These necklaces are worn by men of the Ifugao tribe and the Kalinga tribe. The pieces of mother-of-pearl show different colours depending on from which angle you look at them. The pieces of mother-of-pearl are sometimes unwrought; others like this one carry several lines with a very fine engraving. Length measured along the bottom of the shells is approx. 100 cm Shell part size approx. 7 cm long x 5 cm wide Weight: 156 grams Origin: Banaue, Luzon, Philippines",
+  "category": "accessories",
+  "stocks": 98,
+  "createdAt": {
+    "$date": "2024-12-07T05:09:02.937Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753db8e6898eb34bf09b3c1"
+  },
+  "name": "Kalinga Necklace – Yellow",
+  "origin": "Kalinga (Philippines)",
+  "image": "https://i.ibb.co/R0BpHby/74366753cb35.png",
+  "additionalImages": [
+    "https://i.ibb.co/R0BpHby/74366753cb35.png",
+    "https://i.ibb.co/VQG1PhZ/992add8b488a.png",
+    "https://i.ibb.co/VML2gyj/8a0368fb95bb.png"
+  ],
+  "price": 1300,
+  "description": "From Makabayan Wear, this is a Kalinga handwoven necklace with beads. Each was made completely by hand. The beautiful band was woven using a backstrap loom, and the beads were hand stitched. In the Kalinga tribal culture, beads are very important and sacred. The precious beads were kept as family heirlooms, handed down from generation to generation and were used to adorn traditional attires to signify status and wealth. Nowadays, the Kalinga artisans are making these fashion accessories that pay homage to their indigenous culture and long love affair with beads. 100% handmade Velcro clasp in the back (button enclosure is not used, because it can get caught in hair) • Unique ethnic style • Fits neck length up to 16.5 (42cm circumference) • Supporting Filipino traditional artisans • Main color: Yellow",
+  "category": "accessories",
+  "stocks": 100,
+  "createdAt": {
+    "$date": "2024-12-07T05:22:22.057Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753de646898eb34bf09b3c2"
+  },
+  "name": "T'boli Comb",
+  "origin": "Lake Sebu, South Cotabato, (Philippines)",
+  "image": "https://i.ibb.co/0Y4R7n7/81a5da736e83.png",
+  "additionalImages": [
+    "https://i.ibb.co/0Y4R7n7/81a5da736e83.png",
+    "https://i.ibb.co/xYp2880/af205b26f284.png",
+    "https://i.ibb.co/8Xtzdyg/77d72897c67d.png"
+  ],
+  "price": 1850,
+  "description": "T'boli beaded comb head dress used as an accessories used by the T'boli Tribe at Lake Sebu, South Cotabato. they used it during their special event or special visitor to perform their cultural dance to welcome their guests. note: this is handmade comb head dress to show their talent in making their own accessories. Dimensions: 3024 x 4032 px | 25.6 x 34.1 cm | 10.1 x 13.4 inches | 300dpi",
+  "category": "accessories",
+  "stocks": 98,
+  "createdAt": {
+    "$date": "2024-12-07T05:34:28.929Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753deb96898eb34bf09b3c3"
+  },
+  "name": "Talaandig Necklace",
+  "origin": "Bukidnon (Philippines)",
+  "image": "https://i.ibb.co/XxWzmhQ/9074cf89e89c.png",
+  "additionalImages": [
+    "https://i.ibb.co/XxWzmhQ/9074cf89e89c.png",
+    "https://i.ibb.co/zFM2PZc/ca355c9b59ff.png",
+    "https://i.ibb.co/Bgc12rC/cb1a5e524900.png"
+  ],
+  "price": 2240,
+  "description": "The heritage of the noble ancestry of the Indigenous People of Bukidnon is symbolized in their art form of beadwork representing their nature consciousness.  Their creations are a story of sophistication and understanding of nature, being unique, local, as well as universal. Each tribe’s patterns and colors represents the craft and life forms found in their environment. Beads and brass were traded since the turn of the century through their intricate kinship with the Moros from Lanao. Each bead is meticulously set one after the other to form a symmetrical representation of their environment. Triangles are scaled to form the prestigious mountain ranges of which the tribes of Bukidnon are the custodians. It has been their life and sense of community when their farming responsibilities of the day are done, that the women gather around during the afternoon rains and early evenings to create the stunning artistic beadwork worn during special occasions and rituals.",
+  "category": "accessories",
+  "stocks": 99,
+  "createdAt": {
+    "$date": "2024-12-07T05:35:53.382Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753df126898eb34bf09b3c4"
+  },
+  "name": "KIYAT",
+  "origin": "Cordilleran Ibanel Baguio (Philippines)",
+  "image": "https://i.ibb.co/gM8Y9tP/29dfbaf129bf.png",
+  "additionalImages": [
+    "https://i.ibb.co/gM8Y9tP/29dfbaf129bf.png",
+    "https://i.ibb.co/7kJKS65/32b8af475262.png",
+    "https://i.ibb.co/9bRXbqf/f984a3fac556.png"
+  ],
+  "price": 250,
+  "description": "It is a woven accessory made by The Cordilleran Ibanel Baguio, maker of traditional products of cordillera. The design was inspired by the resilience of women to open their eyes after they shed tears and experience hardships",
+  "category": "accessories",
+  "stocks": 94,
+  "createdAt": {
+    "$date": "2024-12-07T05:37:22.374Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753e0c36898eb34bf09b3c5"
+  },
+  "name": "Ifugao Bulul Necklace",
+  "origin": "Ifugao",
+  "image": "https://i.ibb.co/L1bz63T/83cf3e72f16c.png",
+  "additionalImages": [
+    "https://i.ibb.co/L1bz63T/83cf3e72f16c.png",
+    "https://i.ibb.co/qg1Qjtr/5bce788b3d5c.png",
+    "https://i.ibb.co/bBGN8FC/d41ddc2aaf83.png"
+  ],
+  "price": 2470,
+  "description": "Made by Ifugao artisans in the Cordillera mountains of the Philippines, the bulol is a centuries-old symbol of abundance, protection, and healing. In Ifugao traditions, bulols are placed within the household to ensure a plentiful rice harvest.\r\n\r\nDETAILS:\r\nSize: Brass bulol 1 1/8\" x 1/2\" x 3/8\".\r\nMake: Upcycled brass, leather cord. Hand-crafted and individually-made in Ifugao, Philippines - home to the renowned Rice Terraces hand-carved into the mountains.\r\nSymbol: Ifugao Bulol figure of abundance, protection, and healing.\r\nCare: With a soft cloth, polish with baking soda and lemon. Keep dry.\r\n",
+  "category": "accessories",
+  "stocks": 94,
+  "createdAt": {
+    "$date": "2024-12-07T05:44:35.691Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753e1566898eb34bf09b3c6"
+  },
+  "name": "Kalinga Beaded Choker",
+  "origin": "Kalinga",
+  "image": "https://i.ibb.co/hghHR9L/8a7bbbd1df0e.png",
+  "additionalImages": [
+    "https://i.ibb.co/hghHR9L/8a7bbbd1df0e.png",
+    "https://i.ibb.co/cczWKG0/9f27551f1a9a.png",
+    "https://i.ibb.co/wNhF2gN/f8bef13dbe7f.png"
+  ],
+  "price": 1500,
+  "description": "Introducing Kalinga chokers, the perfect accessory to elevate your outfit! These unique chokers are made out of indigenous textiles and beads sourced directly from the Kalinga province in the Philippines. We are proud to partner with Ardlene Bawer Dawagan from Mabilong, Lubuagan Kalinga to bring you these beautiful and authentic chokers. Each piece is lovingly handcrafted by skilled artisans, ensuring that no two chokers are exactly alike.\r\n\r\nThe intricate patterns and vibrant colors of the indigenous textiles used in these chokers are a testament to the rich culture and heritage of the Kalinga people. The addition of carefully selected beads gives each piece a touch of modern elegance. Whether you're dressing up for a special occasion or adding a finishing touch to your everyday look, Kalinga chokers are sure to make a statement.\r\n",
+  "category": "accessories",
+  "stocks": 100,
+  "createdAt": {
+    "$date": "2024-12-07T05:47:02.858Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753e27b6898eb34bf09b3c7"
+  },
+  "name": "Sagada Kankanaey Bontoc Igorot Ceremonial Headdress",
+  "origin": "Cordillera Region of the Northern Philippines",
+  "image": "https://i.ibb.co/j8Tg2FS/3b9ae83994f4.png",
+  "additionalImages": [
+    "https://i.ibb.co/j8Tg2FS/3b9ae83994f4.png",
+    "https://i.ibb.co/qRqmLZf/47265dc0fd6b.png",
+    "https://i.ibb.co/2P69P8B/3a3eca91c6a9.png"
+  ],
+  "price": 1500,
+  "description": "RARE Sagada-Kankanaey-Bontoc Igorot Important Ceremonial Headdress c.a Early 20th CenturyThis headdress is used by an elder participant in Igorot ceremonies \"Dangtey\" - Performed every ten years as a periodic demonstration of village unity, the dangtey cermony is a composite of several rituals. Literally dangtey alludes to the foundation posts of a house - \"a part on which the frame rests\" symbolically it could mean the foundation of the community as a whole.Dangtey prayers invoke the intervention of the guardian spirits and souls for the community protection, good health and generous harvests.",
+  "category": "accessories",
+  "stocks": 100,
+  "createdAt": {
+    "$date": "2024-12-07T05:51:55.879Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753e37e6898eb34bf09b3c8"
+  },
+  "name": "Modern Ilongga Dolls",
+  "origin": "Panay-Bukidnon",
+  "image": "https://i.ibb.co/nzJywTj/dcd04d240393.png",
+  "additionalImages": [
+    "https://i.ibb.co/nzJywTj/dcd04d240393.png",
+    "https://i.ibb.co/Q9bzKpG/72a9ce56835c.png",
+    "https://i.ibb.co/TLhTc6K/a2f299a3e641.png"
+  ],
+  "price": 2500,
+  "description": "Celebrate Filipino heritage with our handcrafted Modern Filipiniana Dolls, dressed in elegant Baro't Saya and Modern Filipiniana attire. Each 7-inch doll showcases the artistry of Ilongga women artisans, blending tradition and modernity while empowering indigenous communities and marginalized women.\r\n\r\nThis is made of different yarn. Wool, bamboo yarn, and linen.\r\n",
+  "category": "accessories",
+  "stocks": 98,
+  "createdAt": {
+    "$date": "2024-12-07T05:56:14.808Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753e3d86898eb34bf09b3c9"
+  },
+  "name": "Handwoven beadwork",
+  "origin": "Lumad",
+  "image": "https://i.ibb.co/8rybwp6/611ff1b6c80e.png",
+  "additionalImages": [
+    "https://i.ibb.co/8rybwp6/611ff1b6c80e.png",
+    "https://i.ibb.co/pXv81bL/a08f13802077.png",
+    "https://i.ibb.co/VYjYLJS/d9ed43f450fe.png"
+  ],
+  "price": 200,
+  "description": "This beadwork was made by Lumad women and children in evacuation centers and communities throughout Mindanao. An enduring cultural practice, this beadwork symbolizes their self-respect and dignity as indigenous people. We have a limited supplies of necklaces, earrings, bracelets, lanyards and headdresses made by Lumads as offerings to their supporters in exchange for monetary donations.",
+  "category": "accessories",
+  "stocks": 91,
+  "createdAt": {
+    "$date": "2024-12-07T05:57:44.958Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753e56b6898eb34bf09b3ca"
+  },
+  "name": "Handloomed Ifugao Kinuttiyan Blanket",
+  "origin": "Ifugao people (Cordillera region, Philippines)",
+  "image": "https://i.ibb.co/bmS8ZKK/f6fa7c8a7dcd.png",
+  "additionalImages": [
+    "https://i.ibb.co/bmS8ZKK/f6fa7c8a7dcd.png",
+    "https://i.ibb.co/JvLvK8P/deb0ae57000c.png",
+    "https://i.ibb.co/N6B4Pyj/083276dfd385.png"
+  ],
+  "price": 500,
+  "description": "This blanket draped only the highest among the noble class in traditional Ifugao society. Kinuttiyan iconography depicts the different stages that the kadangyan passes through in the quest of completing the different stages of kinadangyan or nobility. Traditionally, a person who wears the kinuttiyan has the bragging rights of having accomplished society’s requirements before occupying a position of power and privilege. Hand-dyed 100% Philippine cotton, handwoven on back-strap loom; four (4) panels of binobodan weave joined by traditional embroidery Size: Edged on both ends by pinilli strips | 70x120inches | 1.55kg",
+  "category": "textiles",
+  "stocks": 99,
+  "createdAt": {
+    "$date": "2024-12-07T06:04:27.357Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753e5e26898eb34bf09b3cb"
+  },
+  "name": "\"Kalinga Fringe Scarf",
+  "origin": "Kalinga (Cordillera region, Philippines)",
+  "image": "https://i.ibb.co/vP7CrZY/19950dbc0a7b.png",
+  "additionalImages": [
+    "https://i.ibb.co/vP7CrZY/19950dbc0a7b.png",
+    "https://i.ibb.co/ydKBTmd/4656da56b581.png",
+    "https://i.ibb.co/FBcPpyV/354c5d539cc0.png"
+  ],
+  "price": 3600,
+  "description": "From Makabayan Wear, this is a fabulous fringe scarf, and perfect accessory to brighten up your wardrobe. It is lightweight and comfortable to wear. * Length x Width: 71 x 7 (180cm x 18 cm) - These are rough measurements, and can vary slightly due to the hand- woven nature of the product * Handwoven Polyester; Colors: Tan, red, black, and white * Lightweight and comfortable against the skin Handwoven and sewn in Cordilleras, Philippines, the textile designs represents the cultural identity and traditions of the Kalingas, the indigenous people who made each of these scarves. Every purchase supports their livelihood and preservation of their weaving culture.",
+  "category": "textiles",
+  "stocks": 100,
+  "createdAt": {
+    "$date": "2024-12-07T06:06:26.234Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753e6876898eb34bf09b3cc"
+  },
+  "name": "Pinagpagan",
+  "origin": "Kankana-ey people (Cordillera region, Philippines)",
+  "image": "https://i.ibb.co/2vKy7Hc/c933d5d57706.png",
+  "additionalImages": [
+    "https://i.ibb.co/2vKy7Hc/c933d5d57706.png",
+    "https://i.ibb.co/v194gBD/4c22020b704a.png",
+    "https://i.ibb.co/zmdztZ4/a99de7d3d24e.png"
+  ],
+  "price": 5000,
+  "description": "This design typically consists of a central white-black motif flanked by black-red patterns on the left and right sides, symbolizing balance, harmony, and unity within the Kankana-ey community. The white-black motif often represents the duality of life, embodying concepts such as day and night, good and evil, or life and death. Meanwhile, the black-red patterns may symbolize vitality, energy, and the cyclical nature of existence. Together, these elements convey the interconnectedness of all things and the perpetual balance maintained within the natural and spiritual realms. This piece is a tangible expression of their heritage, carrying with it the stories, skills, and spirit of the Kankana-ey people.",
+  "category": "textiles",
+  "stocks": 99,
+  "createdAt": {
+    "$date": "2024-12-07T06:09:11.671Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753e7106898eb34bf09b3cd"
+  },
+  "name": "Panay-Bukidnon Panubok Embroidery",
+  "origin": "Panay-Bukidnon people (Panay island, Visayas, Philippines)",
+  "image": "https://i.ibb.co/GpS1VVt/8e6f2cdbc81d.png",
+  "additionalImages": [
+    "https://i.ibb.co/GpS1VVt/8e6f2cdbc81d.png",
+    "https://i.ibb.co/M9TnycF/534908e28041.png",
+    "https://i.ibb.co/7Jg8gvg/fefe8fc82ff2.png"
+  ],
+  "price": 1500,
+  "description": "The Textile and Epic Traditions of the Panay-Bukidnon.  Residing along the mountainous regions of the island of Panay in Visayas are the Panay-Bukidnon, also known as the Suludnon. They comprise a diverse cultural group that live along the boundaries between the different provinces and cities of Panay, including Antique, Iloilo, Capiz, and Lambuano. For this reason, they are often called Sulod, a Visayan term meaning “inside,” or “to enter.” Tradition is central to the culture of the Sulod. They are known for their different art forms that celebrate the many aspects of their culture, such as dance, music, weaving, and most notably the traditional epics of the Visayans, passed on by the binokot, or the record-keeper.",
+  "category": "textiles",
+  "stocks": 100,
+  "createdAt": {
+    "$date": "2024-12-07T06:11:28.305Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753e7e56898eb34bf09b3ce"
+  },
+  "name": "Sinamay Gift Wrap",
+  "origin": "Abaca (Manila hemp) (Philippines)",
+  "image": "https://i.ibb.co/SKTSj6Y/d1ccf85f3913.png",
+  "additionalImages": [
+    "https://i.ibb.co/SKTSj6Y/d1ccf85f3913.png",
+    "https://i.ibb.co/XLGbrhn/5c062b9a3474.png",
+    "https://i.ibb.co/YRGq6Hb/4023365b5088.png"
+  ],
+  "price": 160,
+  "description": "Sinamay gift wrap,  made from Abaca fibers,  is sustainably crafted using traditional methods. Its rugged texture, natural sheen, and variety of colors enhance presentations while showcasing eco-friendly origins and artisan skill.",
+  "category": "textiles",
+  "stocks": 98,
+  "createdAt": {
+    "$date": "2024-12-07T06:15:01.737Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753e88e6898eb34bf09b3cf"
+  },
+  "name": "Baya’ung",
+  "origin": "Ifugao",
+  "image": "https://i.ibb.co/WfGWDny/4a83de42cf29.png",
+  "additionalImages": [
+    "https://i.ibb.co/WfGWDny/4a83de42cf29.png",
+    "https://i.ibb.co/Bc92ssq/96d9bfd58e30.png",
+    "https://i.ibb.co/dWWVzBb/748e574549a6.png"
+  ],
+  "price": 5000,
+  "description": "The baya’ung is the current standard Ifugao blanket used by all men of all ages regardless of social status. Previously, it was exclusive to older members of the upper class and to ritual specialists.\r\n\r\nIt is identified by broad black panels which are complimented by red strips. Traditionally, it featured the linuhhung, hinolgat (spear head), and hinulgi  (complex diamond pattern) complex. For the modern versions, the colors used are still the same but the design patterns have been changed.\r\n",
+  "category": "textiles",
+  "stocks": 100,
+  "createdAt": {
+    "$date": "2024-12-07T06:17:50.663Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753e9676898eb34bf09b3d0"
+  },
+  "name": "Cream and Dark Teal Cotton Fabric",
+  "origin": "N/A",
+  "image": "https://i.ibb.co/mTvS8mR/749d2de685b8.png",
+  "additionalImages": [
+    "https://i.ibb.co/mTvS8mR/749d2de685b8.png",
+    "https://i.ibb.co/Rg19X0y/cf5e58a602b9.png",
+    "https://i.ibb.co/68khzmJ/9cfa18233fdb.png"
+  ],
+  "price": 430,
+  "description": "Kinwa prides itself in the handloom textile industry with PWD and nursing mothers as weavers. Along with them are on-the-job training students and K-12 on apprentice with the enterprise.\r\n\r\nDetails:\r\nWoven by partner artisans through upright loom weaving\r\nFeaturing a traditional Yakan pattern called Jiluros (pattern of stripe thread in assorted colors). Made of Cotton and it is washable. The colors are Cream and dark teal with maroon and mustard accents.\r\n\r\nMade by weaver Shanniah\r\nDimensions: 14 inches wide \r\n",
+  "category": "textiles",
+  "stocks": 100,
+  "createdAt": {
+    "$date": "2024-12-07T06:21:27.466Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753ea736898eb34bf09b3d1"
+  },
+  "name": "TAPIS",
+  "origin": "Kalinga (Cordillera region, Philippines)",
+  "image": "https://i.ibb.co/XCmNv71/d75a8bbff74e.png",
+  "additionalImages": [
+    "https://i.ibb.co/XCmNv71/d75a8bbff74e.png",
+    "https://i.ibb.co/QpVq2B5/c744c39b9d48.png",
+    "https://i.ibb.co/p2CVx1F/36c4540d1f89.png"
+  ],
+  "price": 3500,
+  "description": "This piece looks into the pattern found in the daily Kankana-ey female dress called the \"tapis,\" which is essentially a wraparound skirt. The red, green, and yellow colors with hints of black is the most common colorway in this ethnic group. The geometric symbols featured in this pattern are the \"uweg\" (snake) and \"tinagtago\" (human) on the top part, and more of the \"tiktiko\" on the lower part. This time the \"tiktiko\" form x's in the middle parts, alternating with the diamonds of the \"matmata\": the diamonds once again stand for grains of rice and the x's stand for traditional rice mortars, a combination that's often used to signify wealth and abundance. The \"uweg\" and the \"tinagtago\" are often used to generate good omen on the wearer.",
+  "category": "textiles",
+  "stocks": 100,
+  "createdAt": {
+    "$date": "2024-12-07T06:25:55.587Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753eb4b6898eb34bf09b3d2"
+  },
+  "name": "Tugi' Tugi'",
+  "origin": "N/A",
+  "image": "https://i.ibb.co/Fwk0DwF/ba7753222b14.png",
+  "additionalImages": [
+    "https://i.ibb.co/Fwk0DwF/ba7753222b14.png",
+    "https://i.ibb.co/ZXXRxQs/aa6a863fcaf9.png",
+    "https://i.ibb.co/LRYxr6p/08093c253bc7.png"
+  ],
+  "price": 500,
+  "description": "A Panubok needlework resembling the pattern found in vines.\r\n\r\nThis design is embroidered on the sleeves, neck, and sides of the saypang (the Panay Bukidnon clothing)\r\nPanubok by Cultural Master Regina Caballero -Villanueva\r\n",
+  "category": "textiles",
+  "stocks": 100,
+  "createdAt": {
+    "$date": "2024-12-07T06:29:31.233Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753ebe26898eb34bf09b3d3"
+  },
+  "name": "HABLON TWO-TONE WEAVES",
+  "origin": "Lumad",
+  "image": "https://i.ibb.co/MGTjRpC/62bb97b1794d.png",
+  "additionalImages": [
+    "https://i.ibb.co/MGTjRpC/62bb97b1794d.png",
+    "https://i.ibb.co/K9DJnMF/9043ce0032d0.png",
+    "https://i.ibb.co/qBmHPTn/696406866a59.png"
+  ],
+  "price": 450,
+  "description": "Hablon Two-Tone weaves heartwoven by the master weavers of @hablonnilauriana. Each weaves combines two threads of different colors that give its glossy dual tone effect.\r\n\r\nThis linen-like fabric is light, comfortable and proven suitable for apparel and other design projects.\r\n\r\n Hablon is a variety of woven textiles produced by different Lumad groups, often incorporating natural dyes and traditional motifs. Lumad textiles are not only aesthetically pleasing but also represent the resilience and cultural richness of the indigenous peoples of Mindanao. They continue to be an important part of the cultural heritage of the Philippines.\r\n",
+  "category": "textiles",
+  "stocks": 100,
+  "createdAt": {
+    "$date": "2024-12-07T06:32:02.601Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753ecd56898eb34bf09b3d4"
+  },
+  "name": "Red Ethnic Ifugao Baguio Cultural Filipiniana Bolero",
+  "origin": "Ifugao Baguio (Philippines)",
+  "image": "https://i.ibb.co/GtHbQbC/ac9ccd9cc05c.png",
+  "additionalImages": [
+    "https://i.ibb.co/GtHbQbC/ac9ccd9cc05c.png",
+    "https://i.ibb.co/CsSrcpR/75430afacd28.png",
+    "https://i.ibb.co/mRgfDY3/f1b53679acfa.png"
+  ],
+  "price": 1800,
+  "description": "A Bolero Filipiniana typically refers to a bolero-style jacket or cover-up that complements traditional Filipino attire, particularly women's dresses like the Baro't Saya or other Filipiniana gowns. The bolero, in this context, is designed with elements inspired by Filipino culture and often incorporates traditional embroidery and fabric. Wearing a Bolero Filipiniana is a way for individuals to celebrate and showcase their cultural heritage. The bolero, with its intricate details and cultural significance, adds an extra layer of beauty and elegance to traditional Filipino attire.",
+  "category": "clothes",
+  "stocks": 100,
+  "createdAt": {
+    "$date": "2024-12-07T06:36:05.345Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753ed196898eb34bf09b3d5"
+  },
+  "name": "Cordillera Linaktub Handmade Filipiniana Dress",
+  "origin": "Cordillera region's (Philippines)",
+  "image": "https://i.ibb.co/qmGXN4s/5944da7aa849.png",
+  "additionalImages": [
+    "https://i.ibb.co/qmGXN4s/5944da7aa849.png",
+    "https://i.ibb.co/5G1Ky6r/972c48387c1d.png",
+    "https://i.ibb.co/8918CFF/c9a42e86cfab.png"
+  ],
+  "price": 5000,
+  "description": "Introducing the Women's Cordillera Linaktub Handmade Filipiniana Dress, a stunning and culturally rich garment that embodies the beauty and traditions of the Philippines. Crafted with meticulous care, this dress showcases the timeless elegance of the Cordillera region's indigenous weaving techniques. The Cordillera Linaktub Dress is expertly handmade by skilled artisans using traditional methods passed down through generations. It features intricate handwoven patterns that pay homage to the rich heritage of the Cordillera people. The dress is made from high-quality materials sourced locally, ensuring durability and comfort. With its flattering silhouette and graceful design, this Filipiniana dress is a true statement piece. The flowing skirt and fitted bodice create a figure-flattering shape that accentuates the natural curves of a woman's body. The intricate embroidery and vibrant colors make it a perfect choice for special occasions, such as weddings, cultural events, or formal gatherings. Beyond its aesthetic appeal, the Cordillera Linaktub Dress represents a celebration of Filipino craftsmanship and cultural diversity. By wearing this dress, you not only showcase your style and elegance but also support the livelihoods of local artisans and contribute to the preservation of traditional weaving techniques. Whether you're attending a formal affair or simply want to embrace the beauty of Filipino culture, the Women's Cordillera Linaktub Handmade Filipiniana Dress is a must-have addition to your wardrobe. Step into the elegance and tradition of the Philippines with this exquisite dress that tells a story of heritage, skill, and timeless beauty.",
+  "category": "clothes",
+  "stocks": 100,
+  "createdAt": {
+    "$date": "2024-12-07T06:37:13.012Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753edac6898eb34bf09b3d6"
+  },
+  "name": "Saypang Panay Bukidnon Traditional Clothing",
+  "origin": "Panay Bukidnon (Philippines)",
+  "image": "https://i.ibb.co/9ntxs07/d4dac4be7f39.png",
+  "additionalImages": [
+    "https://i.ibb.co/9ntxs07/d4dac4be7f39.png",
+    "https://i.ibb.co/6s91M2h/f6fc8ad211a2.png",
+    "https://i.ibb.co/5Wp46d7/66ef70375e0d.png"
+  ],
+  "price": 1589,
+  "description": "Saypang is worn on special occasions such as panuba, a community gathering in the river, and when dancing binanog, the Panay Bukidnon traditional dance. You can see in this saypang most of the 16 basic panubok patterns, which are inspired by the indigenous peoples’ environment, way of life, and epic chant Suguidanon. Widen your imagination and you could see patterns like the fern plant, snake skin, point of a spear, bird’s eyes, flower, grass, vines, house posts, among others. Saypang is paired with hinimbis or three-layered skirt that resembles fish scales. The first layer is checkered patadyong and the next two layers are plain patadyong embellished with panubok. Hinimbis is a status symbol as only those from well-off families or from the lineage of binukot can wear this. Ordinarily, Panay Bukidnon women only wear the checkered patadyong. Part of the Panay Bukidnon female clothing is the paha or belt worn over the patadyong. Similarly, the paha is embellished with panubok and accessorized with old coins, another status symbol. Only those who are well-off have access to silver coins and use it as accessories.",
+  "category": "clothes",
+  "stocks": 100,
+  "createdAt": {
+    "$date": "2024-12-07T06:39:40.434Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753ee2b6898eb34bf09b3d7"
+  },
+  "name": "Yellow-Tiber Green Tinaggu ya Linuhhung",
+  "origin": "Ifugao (Philippines)",
+  "image": "https://i.ibb.co/b76TzjM/33a2c11555f5.png",
+  "additionalImages": [
+    "https://i.ibb.co/b76TzjM/33a2c11555f5.png",
+    "https://i.ibb.co/7zWsmTY/0df038324d32.png",
+    "https://i.ibb.co/L5zKFQM/6b814462f1f2.png"
+  ],
+  "price": 20000,
+  "description": "This design Linuhhung represents the agricultural gods. superior deities of the Ifugao. These gods are responsible for good harvests and require sacrifices and offerings from the Ifugao. While the tinaggu pattern evokes protection from the ancestors for the welfare of their descendants and earthly village. Made from polyester. Handwoven in Ifugao. This piece has two panels joined by traditional kuttilap embroidery and bounded at both ends with strips of the same weaving technique---pinilli. 33x70inches",
+  "category": "clothes",
+  "stocks": 100,
+  "createdAt": {
+    "$date": "2024-12-07T06:41:47.215Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753ee806898eb34bf09b3d8"
+  },
+  "name": "Kegal Bensewit",
+  "origin": "Tboli (Philippines)",
+  "image": "https://i.ibb.co/XSyHZHf/235c72b4eacc.png",
+  "additionalImages": [
+    "https://i.ibb.co/XSyHZHf/235c72b4eacc.png",
+    "https://i.ibb.co/ZgKTy6s/75197fada536.png",
+    "https://i.ibb.co/pjLnmXG/product-38-3.png"
+  ],
+  "price": 1600,
+  "description": "The most regal, formal and important of the garments owned by a Tboli woman.  Look closely and you will see that the tiny white ornaments are actually made of hand-carved mother-of-pearl.  The beads on this blouse and their patterns have been passed down through several generations.  Each time the cloth wore thin, every individual bead was removed and carefully replaced onto a fresh garment, with the utmost care to preserve the exact original pattern created by the exact mother-of-pearl jewels.  The kegal bensewit is worn during only the most important occasions.  The collection is honored by its presence. 18 1/2 x 55 in. (46.99 x 139.7 cm) (sleeve to sleeve)",
+  "category": "clothes",
+  "stocks": 100,
+  "createdAt": {
+    "$date": "2024-12-07T06:43:12.512Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753eed56898eb34bf09b3d9"
+  },
+  "name": "Handwoven Kalinga Jacket - Black Striped",
+  "origin": "Kalinga (Philippines)",
+  "image": "https://i.ibb.co/dpFXQRp/848e09f034aa.png",
+  "additionalImages": [
+    "https://i.ibb.co/dpFXQRp/848e09f034aa.png",
+    "https://i.ibb.co/JyZv878/31b74ee9d60d.png",
+    "https://i.ibb.co/mRJzSzk/e60d072c05ac.png"
+  ],
+  "price": 9800,
+  "description": "A handwoven jacket made using the backstrap weaving technique in Kalinga, Philippines. Featuring a geometric design and two front pockets. • Size: Unisex. Small 38 Chest Medium 40 Chest; Large 42 Chest XL 44 Chest • Make: Reversible. Completely handwoven fabric from Kalinga, Philippines. It is specially patterned by our local weavers for a meaningful style.",
+  "category": "clothes",
+  "stocks": 100,
+  "createdAt": {
+    "$date": "2024-12-07T06:44:37.696Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753ef246898eb34bf09b3da"
+  },
+  "name": "KANKANAEY VEST",
+  "origin": "Kankanaey (Philippines)",
+  "image": "https://i.ibb.co/M66bFRG/132a7d8de67b.png",
+  "additionalImages": [
+    "https://i.ibb.co/M66bFRG/132a7d8de67b.png",
+    "https://i.ibb.co/GxBFT91/793c0beb60e5.png",
+    "https://i.ibb.co/fryPBWf/c24357d166b9.png"
+  ],
+  "price": 1000,
+  "description": "Kankanaey men traditionally wear loincloths called wanes. These are typically woven from cotton. However, historically, they also used tree bark for loincloths, particularly the bark of the koba tree.  This type of loincloth, also known as koba, was more common among poorer individuals. The wanes can be made of various materials and patterns, often reflecting the wearer's social status or region. While it's less common in everyday wear today, the wanes is still worn during special occasions and traditional ceremonies. And this product is a vest for men's top clothes. It comes of with jacket or sleeve with the same textile and weaving technique to made this beautiful clothes.",
+  "category": "clothes",
+  "stocks": 100,
+  "createdAt": {
+    "$date": "2024-12-07T06:45:56.378Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753efc66898eb34bf09b3db"
+  },
+  "name": "Handloomed Ifugao Bahag Dress (Hinulgi)",
+  "origin": "Kiangan, Ifugao",
+  "image": "https://i.ibb.co/CMm8X2s/2122bbc877b6.png",
+  "additionalImages": [
+    "https://i.ibb.co/CMm8X2s/2122bbc877b6.png",
+    "https://i.ibb.co/KFZcy7z/f2905cc3b879.png",
+    "https://i.ibb.co/gtnsQx5/9711a09f4dd3.png"
+  ],
+  "price": 28600,
+  "description": "Ready To Wear VINTA's literal bestselling dress is made with hand-loomed Ifugao textile, ethically sourced directly from Ifugao Nation in Kiangan, Ifugao. This weave design is called hinulgi, which means ancestor guardians. This dress is inspired by the bahag, the traditional men's loin cloth, of the Cordilleras region.",
+  "category": "clothes",
+  "stocks": 100,
+  "createdAt": {
+    "$date": "2024-12-07T06:48:38.634Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753f02e6898eb34bf09b3dc"
+  },
+  "name": "BAGOYAN",
+  "origin": "Kalinga (Philippines)",
+  "image": "https://i.ibb.co/D5L9ycz/82c1232403c4.png",
+  "additionalImages": [
+    "https://i.ibb.co/D5L9ycz/82c1232403c4.png",
+    "https://i.ibb.co/mC3K1Q5/bc9b5c20317a.png",
+    "https://i.ibb.co/Y3w1WM4/81cce9e85078.png"
+  ],
+  "price": 6000,
+  "description": "The skirt is made of 100% cotton thread made by Kalinga weavers. It is creative with vibrant color that make you stand out of the crowd.\r\n\r\nBagoyan founder Jasmine Baac is proud of her Kalinga heritage. Born in Baguio and raised in Kalinga Province as a member of the Tobog tribe, “my Kalinga name is ‘Bagoyan,’” she explains. “I was named after my great-grandmother, who was a mandadawak (healer) in our tribe, and was said to foretell the future. She had a very important role in the tribe and to the other tribes, as well.” \r\n\r\nBaac’s grandfather was also a tribal leader, while her uncle was a three-term governor of the province. “He initiated the campaign ‘Kalinga Shines’ and heavily promoted our culture,” she says.\r\n\r\nBaac’s Kalinga name “Bagoyan” means “beautiful.” “It means a woman of strength, of virtue, of power,” Baac says. “I don’t know if I could ever live up to that name and be of value in our society, but I am trying.”\r\n",
+  "category": "clothes",
+  "stocks": 100,
+  "createdAt": {
+    "$date": "2024-12-07T06:50:22.549Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753f0c26898eb34bf09b3dd"
+  },
+  "name": "Illusionada Wrap Dress",
+  "origin": "Kankana-ey people (Cordillera region, Philippines)",
+  "image": "https://i.ibb.co/RTg6Grw/62ce524389f6.png",
+  "additionalImages": [
+    "https://i.ibb.co/RTg6Grw/62ce524389f6.png",
+    "https://i.ibb.co/8PM2jyH/01f4b013c67f.png",
+    "https://i.ibb.co/LZ6yZxD/9c40fa657d03.png"
+  ],
+  "price": 15000,
+  "description": "Kantarines a textile woven by Indigenous communities the Kankanaey and Ibaloi in northern Luzon region. This fabric reflects a joyful weaving tradition, where weavers sing (Kanta) while creating these beautiful textiles every day.\r\n\r\nThe Kantarines dress is an ideal choice for your summer getaway, embodying the joy and warmth of its weavers who created it with a positive spirit and passion for their art.\r\n",
+  "category": "clothes",
+  "stocks": 100,
+  "createdAt": {
+    "$date": "2024-12-07T06:52:50.587Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753f20c6898eb34bf09b3de"
+  },
+  "name": "ANITO",
+  "origin": "Pre-colonial, (Philippines)",
+  "image": "https://i.ibb.co/7Q66DNm/cdd5794536d3.png",
+  "additionalImages": [
+    "https://i.ibb.co/7Q66DNm/cdd5794536d3.png",
+    "https://i.ibb.co/vdF7Qtv/ee6ee789b239.png",
+    "https://i.ibb.co/pdFwXx5/567ed2d6d9c0.png"
+  ],
+  "price": 2000,
+  "description": "A Kankanaey Anito represents ancestor spirits, nature spirits, and deities in the indigenous animistic religions of pre colonial Philippines. They can also be referred to as Tinagtaggu or Taotao; carved humanoid figures that represent ancestral spirits.",
+  "category": "wooden crafts",
+  "stocks": 100,
+  "createdAt": {
+    "$date": "2024-12-07T06:58:20.210Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753f3046898eb34bf09b3df"
+  },
+  "name": "Ifugao Carved Wooden Ladle or Dipper",
+  "origin": "Ifugao, (Philippines)",
+  "image": "https://i.ibb.co/kqJrKCn/0ef0479dc628.png",
+  "additionalImages": [
+    "https://i.ibb.co/kqJrKCn/0ef0479dc628.png",
+    "https://i.ibb.co/Kzhqj7M/0c506618530d.png",
+    "https://i.ibb.co/NnygNc5/0d1c7e3bbd79.png"
+  ],
+  "price": 300,
+  "description": "It is from the Kalanguya people, of the southern Ifugao, whose carving is more rudimentary and whimsical than the other groups of the northern Philippines who took a more formal approach to sculpture. The carving on the handle is particularly whimsical – humorous even. A hole has been drilled through the buttocks of the top figure to allow suspension when the dipper was not in use. The combination of a coconut shell with a wooden handle was once relatively common, but is seldom seen now. Few such dippers have been published.",
+  "category": "wooden crafts",
+  "stocks": 100,
+  "createdAt": {
+    "$date": "2024-12-07T07:02:28.507Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753f3506898eb34bf09b3e0"
+  },
+  "name": "WOODEN CRAFTS (BaSKETRY)",
+  "origin": "Kalinga, (Philippines)",
+  "image": "https://i.ibb.co/C2zWmbq/9d6aa5ebcbb9.png",
+  "additionalImages": [
+    "https://i.ibb.co/C2zWmbq/9d6aa5ebcbb9.png",
+    "https://i.ibb.co/pxCg5MG/3eb47f84e284.png",
+    "https://i.ibb.co/XZsYMqt/c68e16684b0f.png"
+  ],
+  "price": 2200,
+  "description": "Basketry is another remarkable craft that has thrived in Kalinga for centuries. Skilled weavers transform rattan, bamboo, and other natural fibers into sturdy baskets of various shapes and sizes. These baskets serve multiple purposes, from carrying agricultural produce and fishing nets to storing household items. The craftsmanship involved in Kalinga basketry lies not only in the weaving technique but also in the intricate patterns and designs that adorn the finished products. Details Perfect for storage and as a decorative element. Size: 14*8 cm, 14*11 cm, 16*13 cm, 17*15.5 cm”. Make:  Kalinga, Philippines.",
+  "category": "wooden crafts",
+  "stocks": 100,
+  "createdAt": {
+    "$date": "2024-12-07T07:03:44.212Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753f3ac6898eb34bf09b3e1"
+  },
+  "name": "Wooden Shield (Kalasag Bagobo Shield)",
+  "origin": "Bagobo, (Philippines)",
+  "image": "https://i.ibb.co/nBnW1w7/50f2105360ec.png",
+  "additionalImages": [
+    "https://i.ibb.co/nBnW1w7/50f2105360ec.png",
+    "https://i.ibb.co/3s9mJLS/54c758a096db.png",
+    "https://i.ibb.co/fdWkgcp/d9954b468883.png"
+  ],
+  "price": 2000,
+  "description": "Oblong shields used by pagan groups in the Philippines, such as the Bagobo, were adorned with seashell inlays, black geometric patterns, and human hair from defeated enemies. Similar motifs appeared on bamboo containers, clothing, and musical instruments, symbolizing their animist worldview, including abstract representations of their community, dwellings, nature, and celestial elements.",
+  "category": "wooden crafts",
+  "stocks": 100,
+  "createdAt": {
+    "$date": "2024-12-07T07:05:16.974Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753f3f06898eb34bf09b3e2"
+  },
+  "name": "Tekumbo (Panay Bukidnon)",
+  "origin": "Panay Bukidnon, (Philippines)",
+  "image": "https://i.ibb.co/vh2zz6D/44d027bbee9b.png",
+  "additionalImages": [
+    "https://i.ibb.co/vh2zz6D/44d027bbee9b.png",
+    "https://i.ibb.co/TwJ9cHy/a71844ad4c82.png",
+    "https://i.ibb.co/FJ5MnFt/3f922d840a9b.png"
+  ],
+  "price": 2000,
+  "description": "A struck chordophone. The pair of strings are strips of skin from the surface of a single node of bamboo has been cut and raised. The surface in between the strings has been scraped thinly. Frets are placed underneath the ends of both strings. A thin board connects both strings at the center underneath which is a hole. A small pair of sticks lightly hammers the board like a drum. The instrument is played solo for recreation. The instrument was constructed by Lucia Caballero, wife of Manlilikha ng Bayan, Pedring Caballero. Materials: Bamboo",
+  "category": "wooden crafts",
+  "stocks": 100,
+  "createdAt": {
+    "$date": "2024-12-07T07:06:24.922Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753f46c6898eb34bf09b3e3"
+  },
+  "name": "DUYU",
+  "origin": "Ifugao, (Philippines)",
+  "image": "https://i.ibb.co/zV7DDPn/885675a0eaaf.png",
+  "additionalImages": [
+    "https://i.ibb.co/zV7DDPn/885675a0eaaf.png",
+    "https://i.ibb.co/TgynnCx/a6b08aa25725.png",
+    "https://i.ibb.co/tHDyvft/92cce6cd65c4.png"
+  ],
+  "price": 3390,
+  "description": "This bowl, from the Ifugao people of the Philippines, has been carved from a single piece of wood, was used to serve food and wine. It has a dark patina and a smoothness particularly on the outside. The exterior patina is from years of use and  handling, but also from being rubbed with animal fats after each meal to help protect the vessel, which in combination with soot from the hearth gives such bowls their characteristic dark colour.\r\n\r\nThe religious beliefs of the Ifugao are a complex structure of ancestor worship, animism and magical power. Numerous spiritual entities that represent natural elements, forces and phenomena, and ancestral and metaphysical beings are acknowledged, worshipped, appeased and appealed to. Generally the gods are seen as generous and benign beings who enjoy feasting, drinking wine and chewing betel nut, just as the tribes people themselves do. And so there is a blending of food and beverage serving vessels between the utilitarian and the ritual.\r\n",
+  "category": "wooden crafts",
+  "stocks": 100,
+  "createdAt": {
+    "$date": "2024-12-07T07:08:28.254Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753f4c86898eb34bf09b3e4"
+  },
+  "name": "LABBA Basket",
+  "origin": "Kalinga (Philippines)",
+  "image": "https://i.ibb.co/wsWftBp/db97b674f412.png",
+  "additionalImages": [
+    "https://i.ibb.co/wsWftBp/db97b674f412.png",
+    "https://i.ibb.co/SvQY1HW/88ef7593a7de.png",
+    "https://i.ibb.co/b672jtN/b9b77af463f0.png"
+  ],
+  "price": 3390,
+  "description": "Antique Kalinga basket for carrying and storing rice or vegetables made by the mountain people from northern Luzon, the largest island in the Philippine archipelago. This coil basket is perfectly symmetrical and has nice warm patina. The coil weaving technique, materials (finely split rattan and nito vine), and design are consistent with baskets made by the Kalinga tribe. This rare and very beautiful collectible basket is in excellent condition and measures 12” high and about 10\" diameter.",
+  "category": "wooden crafts",
+  "stocks": 100,
+  "createdAt": {
+    "$date": "2024-12-07T07:10:00.083Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753f60a6898eb34bf09b3e5"
+  },
+  "name": "TAKBA",
+  "origin": "Sagada, Mt. Province",
+  "image": "https://i.ibb.co/3B41JPs/41f81fd5b0d3.png",
+  "additionalImages": [
+    "https://i.ibb.co/3B41JPs/41f81fd5b0d3.png",
+    "https://i.ibb.co/DkNJDT7/4d5494b24c98.png",
+    "https://i.ibb.co/GtR46vb/29cbdd77fb78.png"
+  ],
+  "price": 2500,
+  "description": "The takba is a ubiquitous object used during rituals such as the begnas and the dangtey both held in Sagada, Mt. Province. No different from the sangi or pasiking, it is a woven pack basket for general utility, a kind of “carry-all” container. It is when used in rituals that the object becomes the takba.",
+  "category": "wooden crafts",
+  "stocks": 100,
+  "createdAt": {
+    "$date": "2024-12-07T07:15:22.506Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753f6aa6898eb34bf09b3e6"
+  },
+  "name": "SANDUKOS",
+  "origin": "Panay Bukidnon",
+  "image": "https://i.ibb.co/3pXnsfn/22012812be23.png",
+  "additionalImages": [
+    "https://i.ibb.co/3pXnsfn/22012812be23.png",
+    "https://i.ibb.co/WHxfjTp/f7f09c824e3d.png",
+    "https://i.ibb.co/3rBfTWx/38fde2d5ecdc.png"
+  ],
+  "price": 3000,
+  "description": "Sandukos are made by the highlanders, once called Mondo, Sulod, or Buki, but more properly called Panay Bukidnon. They call their sword not sanduko but taribong. The taribong is probably the oldest in form and design, perhaps going back to pre-Hispanic times, whereas the tenegre has been modified by the influence of the Spanish occupation.",
+  "category": "wooden crafts",
+  "stocks": 100,
+  "createdAt": {
+    "$date": "2024-12-07T07:18:02.704Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753f7166898eb34bf09b3e7"
+  },
+  "name": "KUTIYAPI",
+  "origin": "Mindanao",
+  "image": "https://i.ibb.co/7btVk8P/e754412486db.png",
+  "additionalImages": [
+    "https://i.ibb.co/7btVk8P/e754412486db.png",
+    "https://i.ibb.co/gvbttTx/40e242cbc960.png",
+    "https://i.ibb.co/ZBnQgHr/63180603746b.png"
+  ],
+  "price": 5000,
+  "description": "This is a Kutiyapi of the Maguindanaon that was probably collected around the year 1900. It is, therefore, one of the oldest kutiyapi of the Maguindanaon that is still in existence. It is now part of the boat lute collection of Hans Brandeis. \r\n\r\nThis is a two-stringed lute native to the Lumads in Mindanao. It is made out of a single piece of wood, crafted from softwood, such as that from the jackfruit tree and used by the Manobo, T’boli, Maguindanao, and Maranao. \r\n",
+  "category": "wooden crafts",
+  "stocks": 100,
+  "createdAt": {
+    "$date": "2024-12-07T07:19:50.104Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753f86d6898eb34bf09b3e8"
+  },
+  "name": "LUMAD Bag Weaving",
+  "origin": "Bukidnon (Philippines)",
+  "image": "https://i.ibb.co/1MXY76V/df914f1c7dfa.png",
+  "additionalImages": [
+    "https://i.ibb.co/1MXY76V/df914f1c7dfa.png",
+    "https://i.ibb.co/wypVDs1/1e8eaf6ef629.png",
+    "https://i.ibb.co/qCZqRyQ/de0192436fcc.png"
+  ],
+  "price": 450,
+  "description": "For the \"lumad\" or indigenous people of Tagolwanen, the art of weaving is a sacred tradition that's been passed down through generations, including the younger ones, Using mainly \"sodsod,\" a material that's endemic to Malaybalay in Bukidnon, Tagolwanen women see weaving as an integral part of their identity and lives, as it has become a source of livelihood as well.",
+  "category": "bags",
+  "stocks": 100,
+  "createdAt": {
+    "$date": "2024-12-07T07:25:33.383Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753f90b6898eb34bf09b3e9"
+  },
+  "name": "Habi",
+  "origin": "Kankana-ey people (Cordillera region, Philippines)",
+  "image": "https://i.ibb.co/9nCMtN5/12e4f742fd0a.png",
+  "additionalImages": [
+    "https://i.ibb.co/9nCMtN5/12e4f742fd0a.png",
+    "https://i.ibb.co/Jj1jRH4/a24740af5169.png",
+    "https://i.ibb.co/gwDtpf1/94b719175d33.png"
+  ],
+  "price": 2450,
+  "description": "Embrace the spirit of autumn and discover the perfect holiday gift with our new collection of Kankanaey hand-woven clutch bags featuring detachable slings. The bag is crafted by skilled local weavers of Kankanaey, allowing you to support their livelihoods while promoting our rich culture and economy. ",
+  "category": "bags",
+  "stocks": 100,
+  "createdAt": {
+    "$date": "2024-12-07T07:28:11.377Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753f9556898eb34bf09b3ea"
+  },
+  "name": "KALINGA REVERSIBLE BAG",
+  "origin": "Kalinga (Philippines)",
+  "image": "https://i.ibb.co/hy21VKy/36499f57d324.png",
+  "additionalImages": [
+    "https://i.ibb.co/hy21VKy/36499f57d324.png",
+    "https://i.ibb.co/w6XkmtM/440ed28c42a6.png",
+    "https://i.ibb.co/BnC4K0X/6cf188081c3c.png"
+  ],
+  "price": 3700,
+  "description": "This unique bag is crafted from recycled vintage kantha quilts in collaboration with our Budapest-based sewing studio. The entire surface of the textile features thousands of tiny hand stitches, a unique and unrepeatable pattern that gives the piece its amazing timeless character.\r\n\r\nA distinctive characteristic of the kantha fabric is the decorative pattern on both sides making the bag reversible.\r\n\r\nSIZE:\r\nWidth: 43 cm\r\nHeight: 45 cm\r\nHandle drop: 35 cm\r\n",
+  "category": "bags",
+  "stocks": 100,
+  "createdAt": {
+    "$date": "2024-12-07T07:29:25.709Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753f9d26898eb34bf09b3eb"
+  },
+  "name": "Denim Crossbody Bag",
+  "origin": "Kalinga (Philippines)",
+  "image": "https://i.ibb.co/HpJ1hRy/d9f063cf26e9.png",
+  "additionalImages": [
+    "https://i.ibb.co/HpJ1hRy/d9f063cf26e9.png",
+    "https://i.ibb.co/MBS5rym/37ba2fabf8db.png",
+    "https://i.ibb.co/GvJCqmG/7b11e80a2d56.png"
+  ],
+  "price": 3700,
+  "description": "This is a must-have Crossbody Bag, a stunning fusion of Indigenous craftsmanship and modern functionality straight from the heart of the Northern Philippines!\r\n\r\nCrafted with exquisite handwoven fabric from the talented women weavers of Kalinga, this bag is more than just a fashion statement it celebrates tradition and empowerment. It's the perfect companion for everyday adventures, available in two versatile sizes, 12\" X 12\" and 10\" X 10\".\r\n\r\nDesigned to merge ethnic charm with contemporary flair, this bag's sturdy denim fabric and thoughtfully integrated design elements ensure it is as practical as stylish. With ample space to accommodate your essentials, including an iPad and a small computer, it's ideal for travel and daily use.\r\n",
+  "category": "bags",
+  "stocks": 100,
+  "createdAt": {
+    "$date": "2024-12-07T07:31:30.957Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753fa446898eb34bf09b3ec"
+  },
+  "name": "Ifugao Sling Bag",
+  "origin": "Ifugao, (Philippines)",
+  "image": "https://i.ibb.co/Zxn0V3B/8651e02e3194.png",
+  "additionalImages": [
+    "https://i.ibb.co/Zxn0V3B/8651e02e3194.png",
+    "https://i.ibb.co/Z6h6fjK/cfcd68694120.png",
+    "https://i.ibb.co/3f1302x/d124e509966c.png"
+  ],
+  "price": 820,
+  "description": "Hand woven sling bag featuring patterns found in Ifugao textiles by the Kiyyangan Weaving Association (KIWA). Kiangan, Ifugao\r\n\r\nMaterial: handwoven polyester threads.\r\n",
+  "category": "bags",
+  "stocks": 100,
+  "createdAt": {
+    "$date": "2024-12-07T07:33:24.579Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753fad56898eb34bf09b3ed"
+  },
+  "name": "Lumad Sling Bag",
+  "origin": "Lumad, Mindanao (Philippines)",
+  "image": "https://i.ibb.co/NmP84N7/17f2f8809a40.png",
+  "additionalImages": [
+    "https://i.ibb.co/NmP84N7/17f2f8809a40.png",
+    "https://i.ibb.co/4mg5HhH/ed586f2c069c.png",
+    "https://i.ibb.co/GF22ttN/291a38fe5c61.png"
+  ],
+  "price": 150,
+  "description": "These sling bags were made by the Lumad friends of the pung.to.lumad  business from Mindanao and are perfect for storing your phone, wallet, and keys for those quick errands! Each bag is padded with a little foam for extra protection. Measurement: 11x17cm",
+  "category": "bags",
+  "stocks": 100,
+  "createdAt": {
+    "$date": "2024-12-07T07:35:49.492Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753fb0a6898eb34bf09b3ee"
+  },
+  "name": "BOHO",
+  "origin": "Panay-Bukidnon embroidery (Philippines)",
+  "image": "https://i.ibb.co/QM3JB8m/b1a6731fdc5a.png",
+  "additionalImages": [
+    "https://i.ibb.co/QM3JB8m/b1a6731fdc5a.png",
+    "https://i.ibb.co/G3prMr7/106722cf1dd7.png",
+    "https://i.ibb.co/XxVV7Rm/db52c1c5c034.png"
+  ],
+  "price": 300,
+  "description": "Panay-Bukidnon embroidery, often referred to as “panubok,” is a stunning and intricate art form deeply rooted in the cultural heritage of the indigenous communities of Panay Island in the Philippines. This traditional embroidery technique involves meticulously stitching colorful threads onto the denim fabric of bag, creating beautiful and symbolic designs. Length: 15 inch Width: 15.50 inch",
+  "category": "bags",
+  "stocks": 100,
+  "createdAt": {
+    "$date": "2024-12-07T07:36:42.033Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753fb5c6898eb34bf09b3ef"
+  },
+  "name": "Handwoven Kalinga Travel Pouch",
+  "origin": "Kalinga, (Philippines)",
+  "image": "https://i.ibb.co/JcqG0LC/883ddd246b9a.png",
+  "additionalImages": [
+    "https://i.ibb.co/JcqG0LC/883ddd246b9a.png",
+    "https://i.ibb.co/2YjtSTM/2bd08eb9400b.png",
+    "https://i.ibb.co/Jc6sLgr/f36001e14f6a.png"
+  ],
+  "price": 1200,
+  "description": "A handwoven pouch for effortless organization, whether it's for travel, cosmetics, or school supplies. It's a fresh and contemporary twist on the time-honored handwoven textiles from Kalinga showcasing the fine artistry of northern traditional weaving in the Philippines. DETAILS Size: 10” x 6x .5. Make: Handwoven polycotton blend made on backstrap looms in Kalinga, Philippines. ​Care: Hand wash and air dry or spot clean.",
+  "category": "bags",
+  "stocks": 100,
+  "createdAt": {
+    "$date": "2024-12-07T07:38:04.425Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753fbaa6898eb34bf09b3f0"
+  },
+  "name": "\"PASIKING",
+  "origin": "Ifugao, Bontoc (Philippines)",
+  "image": "https://i.ibb.co/wWJYK9s/dc36a26f8a84.png",
+  "additionalImages": [
+    "https://i.ibb.co/wWJYK9s/dc36a26f8a84.png",
+    "https://i.ibb.co/RQkW1b5/4706bce0af6a.png",
+    "https://i.ibb.co/ZX23LbF/fbab14d08694.png"
+  ],
+  "price": 900,
+  "description": "The pasiking called inabnutan and fangao (Ifugao, Bontoc) is a hunter's backpack also used as raincape because of its waterproof qualities. The takba (Bontoc, Kankana-ey) including the inabnutan (Ifugao) are ritual baskets used by ritual specialists (mambunong, mumbaki) in harvest, thanksgiving, and healing rites. In day-to-day living, the pasiking are much favored for storing belongings (e.g., personal accoutrements, mementos from home) and implements for long travels, and at times to carry food when working in the rice fields. It is made from bamboo, rattan, nito, and other local fibers. Different weaving techniques are employed: plaited, twined or coiled or a combination of these techniques. Size: 23 x18, bottom part 7 x10 weight 2 lb",
+  "category": "bags",
+  "stocks": 100,
+  "createdAt": {
+    "$date": "2024-12-07T07:39:22.878Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6753fbfe6898eb34bf09b3f1"
+  },
+  "name": "Medium Ethnic Book Tote with Strap in Tribal Cross Print",
+  "origin": "N/A",
+  "image": "https://i.ibb.co/FDgX58Q/6697be6ce488.png",
+  "additionalImages": [
+    "https://i.ibb.co/FDgX58Q/6697be6ce488.png",
+    "https://i.ibb.co/LYM3dfB/cf9423e387be.png",
+    "https://i.ibb.co/j9C7Ky8/8c721a8c69cf.png"
+  ],
+  "price": 700,
+  "description": "The Medium Ethnic Book Tote with Strap in Tribal Cross Print is a stylish and functional accessory that blends modern design with cultural flair. Crafted from durable fabric, this tote features a vibrant tribal cross pattern, adding a bold and artistic touch to any outfit. The spacious interior offers ample room for books, groceries, or everyday essentials, while the sturdy shoulder strap ensures comfort and convenience for on-the-go use. Whether you're heading to the library, market, or casual outings, this tote combines practicality with an eye-catching ethnic aesthetic, making it a must-have for fashion-forward individuals.",
+  "category": "bags",
+  "stocks": 100,
+  "createdAt": {
+    "$date": "2024-12-07T07:40:46.426Z"
+  }
+}]

@@ -1,0 +1,499 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  /*! Colors */
+  --primary-color: #774d33;
+  --secondary-color: #e2c0a9;
+  --tertiary-color: #ad7f73;
+  --dark-brown: #573622;
+  /*! Fonts */
+  --roboto: "Roboto", sans-serif;
+}
+
+html {
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+  scroll-padding: 100px;
+}
+
+main {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #f5f5f5;
+}
+
+/* ! Navigation */
+nav {
+  display: flex;
+  background-color: var(--primary-color);
+  width: 100%;
+  height: 60px;
+  position: sticky;
+  left: 0;
+  top: 0;
+  z-index: 9999;
+}
+.logo-container {
+  width: 70%;
+  display: flex;
+}
+
+.obrako-logo {
+  width: 150px;
+  margin-left: 50px;
+}
+
+.obrako-logo:hover {
+  cursor: pointer;
+}
+
+.nav-links {
+  width: 30%;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-links ul {
+  width: 100%;
+  display: flex;
+  list-style: none;
+  justify-content: end;
+  padding-right: 50px;
+}
+
+.nav-links ul li {
+  margin: 0 10px;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: white;
+  font: normal 17px var(--roboto);
+  transition: color 0.3s ease;
+}
+
+.nav-links a:hover,
+.user-control-container i:hover {
+  color: var(--secondary-color);
+  cursor: pointer;
+}
+
+.user-control-container {
+  width: 300px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-left: 20px;
+}
+
+.user-control-container i {
+  font-size: 20px;
+  color: white;
+  transition: color 0.3s ease;
+}
+
+/* ! manage account section */
+.manage-account-section {
+  width: 100%;
+  min-height: 100%;
+  display: flex;
+  padding: 50px;
+  gap: 20px;
+}
+
+.manage-account-user-profile {
+  width: 25%;
+  min-height: 200px;
+  background-color: white;
+  padding: 20px 20px 70px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.manage-account-user-address {
+  width: 75%;
+  min-height: 200px;
+  background-color: white;
+  padding: 20px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+legend {
+  font: bold 20px var(--roboto) !important;
+  display: flex;
+  align-items: center;
+  padding-bottom: 10px !important;
+  border-bottom: 2px solid rgba(0, 0, 0, 0.5);
+  margin-bottom: 20px !important;
+}
+
+legend i {
+  font-size: 30px;
+  color: var(--primary-color);
+  margin-right: 10px;
+}
+
+/*  user profile */
+.profile-label {
+  font: 600 15px var(--roboto);
+}
+
+.user-info {
+  width: 100%;
+  height: 35px;
+  background-color: #eff0f5;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 10px;
+  font: normal 15px var(--roboto);
+}
+
+.edit-profile-container {
+  display: flex;
+  gap: 10px;
+}
+
+#edit-profile-btn,
+#change-password-btn {
+  margin-top: 30px;
+  width: 50%;
+  height: 35px;
+  background-color: var(--primary-color);
+  border: none;
+  border-radius: 3px;
+  font: normal 15px var(--roboto);
+  color: white;
+  transition: background-color 0.3s ease;
+}
+#change-password-btn {
+  width: 50%;
+}
+
+#edit-profile-btn:hover,
+#change-password-btn:hover {
+  cursor: pointer;
+  background-color: var(--dark-brown);
+}
+
+/* user address */
+.table,
+.manage-account-table-header th,
+td {
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+
+.table th {
+  font: normal 15px var(--roboto);
+  align-self: center;
+  text-align: center;
+  padding: 15px 0 !important;
+  background-color: var(--secondary-color) !important;
+}
+
+.table td {
+  font: normal 13px var(--roboto);
+  text-align: center;
+  padding: 20px 10px !important;
+}
+
+.table-btn-container {
+  display: flex;
+  justify-content: center;
+  min-height: auto;
+}
+
+td button {
+  width: 100px;
+  height: 30px;
+  background-color: transparent;
+  border: none;
+  border-radius: 3px;
+  font: normal 15px var(--roboto);
+  transition: color 0.3s ease;
+  color: blue;
+}
+
+td button:last-child {
+  color: #dc3546;
+}
+
+.default-badge {
+  align-content: center;
+}
+
+#add-address-btn {
+  width: 170px;
+  height: 35px;
+  margin-top: 30px;
+  background-color: #dc3546;
+  border: none;
+  border-radius: 3px;
+  font: normal 15px var(--roboto);
+  transition: color 0.3s ease;
+  float: right;
+  color: white;
+  transition: background-color 0.3s ease;
+}
+
+#add-address-btn:hover {
+  cursor: pointer;
+  background-color: #b12a38;
+}
+
+.add-address-btn i {
+  margin-right: 10px;
+}
+
+/* ! Edit Profile pop-op form */
+.edit-profile-form-container,
+.edit-address-form-container,
+.add-address-form-container,
+.set-password-form-container,
+.change-password-form-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  z-index: 1;
+}
+
+.edit-profile-form-container {
+  display: none;
+}
+
+.set-password-form-container {
+  display: none;
+}
+
+.change-password-form-container {
+  display: none;
+}
+
+.edit-address-form-container {
+  display: none;
+}
+
+.add-address-form-container {
+  display: none;
+}
+
+.edit-profile-form,
+.edit-address-form,
+.add-address-form,
+.set-password-form,
+.change-password-form {
+  min-height: 400px;
+  margin: auto;
+  background-color: white;
+  padding: 20px;
+  border-radius: 3px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.edit-profile-form {
+  width: 500px;
+}
+
+.set-password-form {
+  width: 400px;
+}
+
+.edit-address-form,
+.add-address-form {
+  width: 600px;
+  height: 500px;
+}
+
+.change-password-form {
+  width: 400px;
+}
+
+.edit-profile-form i,
+.edit-address-form i,
+.add-address-form i,
+.set-password-form i,
+.change-password-form i {
+  float: right;
+  top: 20px;
+  right: 20px;
+  font-size: 25px;
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+
+.edit-profile-form i:hover,
+.edit-address-form i:hover,
+.add-address-form i:hover,
+.set-password-form i:hover,
+.change-password-form i:hover {
+  color: red;
+}
+
+.edit-instruction {
+  clear: right;
+  background-color: rgba(0, 0, 0, 0.1);
+  font: normal 13px var(--roboto);
+  margin: 40px 0 20px;
+  padding: 10px;
+}
+
+.edit-form-container,
+.edit-address-container,
+.add-address-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.edit-address-container div,
+.add-address-container div,
+.edit-form-container div {
+  width: 100%;
+  position: relative;
+}
+
+.edit-form-container label,
+.edit-address-container label,
+.add-address-container label,
+.set-password-form-container label,
+.change-password-form label {
+  display: block;
+  font: normal 15px var(--roboto);
+}
+
+.edit-form-container input,
+.edit-address-container input,
+.add-address-container input,
+.set-password-form-container input,
+.change-password-form input,
+#province,
+#city,
+#barangay,
+#add-province,
+#add-city,
+#add-barangay {
+  display: block;
+  width: 100%;
+  height: 35px;
+  margin-bottom: 10px;
+  padding: 0 10px;
+  border-radius: 3px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  outline: none;
+  font: 400 15px var(--roboto);
+  color: rgba(0, 0, 0, 0.5);
+}
+
+#province option,
+#city option,
+#barangay option,
+#add-province option,
+#add-city option,
+#add-barangay option {
+  color: black;
+}
+
+#birthday::-webkit-calendar-picker-indicator,
+#gender {
+  cursor: pointer;
+}
+
+.gender select {
+  width: 100%;
+  height: 35px;
+  margin-bottom: 10px;
+  border-radius: 3px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  outline: none;
+  font: 400 15px var(--roboto);
+  padding: 0 10px;
+}
+
+#gender {
+  color: rgba(0, 0, 0, 0.5);
+}
+
+#gender option {
+  color: black;
+}
+
+.mobile {
+  display: block;
+}
+
+.save-changes,
+#set-password-btn,
+#new-password-btn {
+  float: right;
+  height: 35px;
+  background-color: var(--primary-color);
+  border: none;
+  border-radius: 3px;
+  font: normal 15px var(--roboto);
+  transition: color 0.3s ease;
+  color: white;
+  margin-top: 20px;
+  padding: 0 10px;
+  min-width: 100px;
+  transition: background-color 0.3s ease;
+}
+
+.save-changes:hover,
+#set-password-btn:hover,
+#new-password-btn:hover {
+  cursor: pointer;
+  background-color: var(--dark-brown);
+}
+
+/* ! Edit Address pop-up form */
+
+.address-cancel-btn,
+.address-save-btn {
+  height: 35px;
+  border: none;
+  border-radius: 3px;
+  font: normal 15px var(--roboto);
+  transition: color 0.3s ease;
+  margin-top: 20px;
+  padding: 0 10px;
+  min-width: 100px;
+  float: right;
+}
+
+.address-cancel-btn {
+  background-color: #eff0f5;
+  transition: background-color 0.3s ease;
+}
+
+.address-save-btn {
+  background-color: var(--tertiary-color);
+  color: white;
+  margin-left: 10px;
+  transition: background-color 0.3s ease;
+}
+
+.address-cancel-btn:hover {
+  cursor: pointer;
+  background-color: #d6d7d8;
+}
+
+.address-save-btn:hover {
+  cursor: pointer;
+  background-color: var(--primary-color);
+}
+
+/* ! Sweet Alert */
